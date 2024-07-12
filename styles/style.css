@@ -199,7 +199,6 @@ body {
  .lots {
     position: relative;
     margin-left: 24px;
-
  }
 
  .lots__heading {
@@ -335,7 +334,7 @@ body {
  .footer {
     display: flex;
     justify-content: space-between;
-    margin: 183px 50px 88px 50px;
+    margin: 163px 50px 108px 50px;
  }
 
  .footer_menu {
